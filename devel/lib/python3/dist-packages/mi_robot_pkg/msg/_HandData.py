@@ -1,0 +1,1 @@
+/home/laboratorio/ros_workspace/devel/.private/mi_robot_pkg/lib/python3/dist-packages/mi_robot_pkg/msg/_HandData.py

@@ -1,0 +1,7 @@
+practica1
+/home/laboratorio/ros_workspace/devel/.private/practica1/cmake.lock /home/laboratorio/ros_workspace/devel/./cmake.lock
+/home/laboratorio/ros_workspace/devel/.private/practica1/share/rg2_driver/cmake/rg2_driver-msg-paths.cmake /home/laboratorio/ros_workspace/devel/share/rg2_driver/cmake/rg2_driver-msg-paths.cmake
+/home/laboratorio/ros_workspace/devel/.private/practica1/share/practica1/cmake/practica1Config.cmake /home/laboratorio/ros_workspace/devel/share/practica1/cmake/practica1Config.cmake
+/home/laboratorio/ros_workspace/devel/.private/practica1/share/practica1/cmake/practica1Config-version.cmake /home/laboratorio/ros_workspace/devel/share/practica1/cmake/practica1Config-version.cmake
+/home/laboratorio/ros_workspace/devel/.private/practica1/lib/pkgconfig/practica1.pc /home/laboratorio/ros_workspace/devel/lib/pkgconfig/practica1.pc
+/home/laboratorio/ros_workspace/devel/.private/practica1/lib/python3/dist-packages/rg2_driver/__init__.py /home/laboratorio/ros_workspace/devel/lib/python3/dist-packages/rg2_driver/__init__.py

@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>mi_robot_pkg</name>
+  <version>0.0.1</version>
+  <description>Paquete de ejemplo para un proyecto de robótica.</description>
+
+  <!-- Información del mantenedor -->
+  <maintainer email="tu_correo@ejemplo.com">Tu Nombre</maintainer>
+
+  <!-- Licencia -->
+  <license>MIT</license>
+
+  <!-- Dependencias de construcción y ejecución -->
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>rospy</build_depend>
+  <build_depend>std_msgs</build_depend>
+  <build_depend>geometry_msgs</build_depend>
+  <build_depend>message_generation</build_depend>
+
+  <exec_depend>rospy</exec_depend>
+  <exec_depend>std_msgs</exec_depend>
+  <exec_depend>geometry_msgs</exec_depend>
+  <exec_depend>message_runtime</exec_depend>
+
+  <!-- Información de exportación -->
+  <export>
+    <!-- Agrega aquí información adicional si es necesario -->
+  </export>
+</package>

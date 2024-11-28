@@ -1,0 +1,1 @@
+/home/laboratorio/ros_workspace/devel/.private/mi_robot_pkg/lib/python3/dist-packages/paquete_practa1/__init__.py

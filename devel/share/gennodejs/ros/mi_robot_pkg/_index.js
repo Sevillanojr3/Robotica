@@ -1,0 +1,1 @@
+/home/laboratorio/ros_workspace/devel/.private/mi_robot_pkg/share/gennodejs/ros/mi_robot_pkg/_index.js

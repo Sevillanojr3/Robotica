@@ -1,0 +1,1 @@
+/home/laboratorio/ros_workspace/devel/.private/mi_robot_pkg/share/roseus/ros/mi_robot_pkg/manifest.l
