@@ -1,3 +1,0 @@
-/home/laboratorio/ros_workspace/devel/./cmake.lock 118
-/home/laboratorio/ros_workspace/devel/share/rg2_driver/cmake/rg2_driver-msg-paths.cmake 2
-/home/laboratorio/ros_workspace/devel/lib/python3/dist-packages/rg2_driver/__init__.py 2
