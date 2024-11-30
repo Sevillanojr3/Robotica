@@ -36,7 +36,6 @@ class InfluxLoader():
         
         # Inicialización de las variables de datos
         self.jointdata = JointState()  # Datos actuales de las articulaciones
-        self.trayectoria = []  # Almacena la trayectoria de las articulaciones (no usada en este código)
         self.previous_state = False  # Estado anterior de la bandera 'flag'
         self.date = int(datetime.now().timestamp())
 
