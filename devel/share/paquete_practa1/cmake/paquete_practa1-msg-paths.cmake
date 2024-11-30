@@ -1,1 +1,0 @@
-/home/laboratorio/ros_workspace/devel/.private/mi_robot_pkg/share/paquete_practa1/cmake/paquete_practa1-msg-paths.cmake

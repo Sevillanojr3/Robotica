@@ -1,1 +1,0 @@
-/home/laboratorio/ros_workspace/devel/.private/mi_robot_pkg/include/mi_robot_pkg/HandData.h
