@@ -1,2 +1,0 @@
-set(paquete_practa1_MESSAGE_FILES "msg/HandData.msg")
-set(paquete_practa1_SERVICE_FILES "")
